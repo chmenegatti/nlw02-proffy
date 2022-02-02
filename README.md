@@ -100,5 +100,5 @@ This project is under the MIT license. See the [licence page](https://opensource
 ---
 
 <h4 align="center">
-    Made with 💜 by <a href="https://www.linkedin.com/in/guilherme-orcezi" target="_blank">Guilherme Orcezi</a>
+    Made with 💜 by Cesar Menegatti
 </h4>
